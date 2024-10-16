@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Añade jugador y puntua</string>
+    <string-array name="madrid"></string-array>
+    <string-array name="barcelona"></string-array>
+    <string-array name="betis"></string-array>
+    <string-array name="sevilla"></string-array>
+
+</resources>
